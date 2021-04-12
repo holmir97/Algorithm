@@ -5,9 +5,9 @@
 * * *
 >LeetCode  
 
-|NUMBER|TITLE|CODE|LINK|DIFFICULTY|
-|---|---|---|---|---|
-|#123|123|!23|!23|!233|
+|NUMBER|TITLE|CODE|DIFFICULTY|
+|---|---|---|---|
+|#2|Add Medium Numbers|[code](https://github.com/holmir97/Algorithm/commit/30d64709ade3e6e805cb4fb3c03333e99b57f9cc)|Medium|
 
 
   
