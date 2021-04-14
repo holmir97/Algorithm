@@ -9,6 +9,7 @@
 |---|---|---|---|
 |#2|Add Two Numbers|[code](https://github.com/holmir97/Algorithm/commit/30d64709ade3e6e805cb4fb3c03333e99b57f9cc)|Medium|
 |#33|Search in Rotated Sorted Array|[code](https://github.com/holmir97/Algorithm/commit/9c510fa6675ef900c657d884b8321e92fc7c4eb5)|Medium|
+|#139|Word Break|[code](https://github.com/holmir97/Algorithm/commit/b086f0d57a0794d07222d25d856a5a3307d18faa)|Medium|
 
 
 * * *
