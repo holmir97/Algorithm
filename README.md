@@ -29,3 +29,13 @@
 |NUMBER|TITLE|CODE|LINK|DIFFICULTY|
 |---|---|---|---|---|
 |#123|123|!23|!23|!23|
+
+* * *
+>기타  
+
+|NUMBER|TITLE|CODE|DIFFICULTY|
+|---|---|---|---|
+|#1|단순 주식값 계산|[code](https://github.com/holmir97/Algorithm/commit/5c818695d449b71aabe110b093102ba9a36a679a)|*|
+
+
+
