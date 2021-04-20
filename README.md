@@ -12,6 +12,7 @@
 |#33|Search in Rotated Sorted Array|[code](https://github.com/holmir97/Algorithm/commit/9c510fa6675ef900c657d884b8321e92fc7c4eb5)|Medium|
 |#139|Word Break|[code](https://github.com/holmir97/Algorithm/commit/b086f0d57a0794d07222d25d856a5a3307d18faa)|Medium|
 |#151|Reverse Words in a String|[code](https://github.com/holmir97/Algorithm/commit/a5486aa756373aed9c208108e28f2eca3762ff6b)|Medium|
+|#890|Find and Replace Pattern|[code](https://github.com/holmir97/Algorithm/commit/4e667e93691faca4e3f707ef61506211a3086b73)|Medium|
 
 
 
