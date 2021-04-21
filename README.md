@@ -13,6 +13,8 @@
 |#139|Word Break|[code](https://github.com/holmir97/Algorithm/commit/b086f0d57a0794d07222d25d856a5a3307d18faa)|Medium|
 |#151|Reverse Words in a String|[code](https://github.com/holmir97/Algorithm/commit/a5486aa756373aed9c208108e28f2eca3762ff6b)|Medium|
 |#890|Find and Replace Pattern|[code](https://github.com/holmir97/Algorithm/commit/4e667e93691faca4e3f707ef61506211a3086b73)|Medium|
+|#1805|Number of Different Integers in a String|[code](https://github.com/holmir97/Algorithm/commit/281debe622933d961db2af51dccfdfe105278305)|Easy|
+
 
 
 
