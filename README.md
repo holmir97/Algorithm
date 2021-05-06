@@ -42,6 +42,7 @@
 |NUMBER|TITLE|CODE|DIFFICULTY|
 |---|---|---|---|
 |#1|단순 주식값 계산|[code](https://github.com/holmir97/Algorithm/commit/5c818695d449b71aabe110b093102ba9a36a679a)|*|
+|#2|스도쿠|[code](https://github.com/holmir97/Algorithm/commit/a6d057beba07161090e61539c69d58ce982d50d8)|*|
 
 
 
