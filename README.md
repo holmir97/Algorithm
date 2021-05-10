@@ -1,6 +1,6 @@
 # Algorithm  
 ### LeetCode • 프로그래머스 • 백준
-(수정 중...)
+(수정 중......)
    
 * * *
 >LeetCode  
